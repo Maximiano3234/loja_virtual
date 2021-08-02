@@ -4,4 +4,4 @@
 <p>Language.php define o comando</p>
 -
 -
-<p>Controller.php (construtos)</p>
+<p>Controller.php (construtor)</p>
