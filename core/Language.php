@@ -12,7 +12,7 @@ class Language {
             $this->l = $_SESSION['lang'];
         }
 
-        $this->ini = parse_ini_file('lang'.$this->l.'.ini');
+        $this->ini = parse_ini_file('lang/'.$this->l.'.ini');
            
     }
 
