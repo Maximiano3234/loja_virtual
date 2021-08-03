@@ -14,4 +14,4 @@ class langController extends controller {
         header("Location:".BASE_URL);
     }
 
-}
+} 
