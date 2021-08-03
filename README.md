@@ -1,7 +1,8 @@
-<p>Listando Algumas estruturas para lojas virtuais</>
+<p>Estrutura PHP para Loja Virtual</>
 -
 -
-<p>Language.php define o comando</p>
+<p>PHP</p>
+<p>MYSQL</p>
 -
 -
-<p>Controller.php (construtor)</p>
+<p>Projeto em Construção...</p>
