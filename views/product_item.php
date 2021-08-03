@@ -9,9 +9,9 @@
         Brita
     </div>
     <div class="product_price_from">
-        R$ xxxx
+        R$ xxxxx
     </div>
     <div class="product_price">
-        R$ xxxx
+        R$ xxxxx
     </div>
 </div>
