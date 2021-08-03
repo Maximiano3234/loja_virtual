@@ -3,7 +3,7 @@ class homeController extends controller {
 
 	private $user;
 
-    public function __construct() {
+    public function __construct() { 
         parent::__construct();
     }
 

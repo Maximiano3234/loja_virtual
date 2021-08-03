@@ -11,4 +11,4 @@ class notFoundController extends controller {
         $this->loadView('404', $dados);
     }
 
-}
+} 
